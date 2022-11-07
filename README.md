@@ -6,8 +6,10 @@
 ## Usage
 
 1. run `node server.js`
-2. Navigate to `localhost:8080`
+2. Navigate to `localhost:5000`
 
-## Credit
+A Slowthai Merchsite.
 
-Modified from Scotch.io's auth tutorial
+Current features: Add to cart
+
+Planned features: Pay and checkout
